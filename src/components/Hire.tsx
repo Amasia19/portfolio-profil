@@ -73,18 +73,18 @@ const Hire = () => {
                         <p className='txt'>Need a project or have questions about my work? Feel free to get in touch with me!</p>
                         <div >
                 <a href="tel:+261387061533" className="flex-image">
-                  <img src="src/assets/image/phone1 .svg" alt="Téléphone" />
+                  <img src="./phone1 .svg" alt="Téléphone" />
                <p>+261 38 70 615 33</p>
                   </a>
                      </div>    
                      <div >
                           <a href="mailto:amasiarajaobelina.jw@gmail.com" className="flex-image">
-                            <img src="src/assets/image/mail.svg" alt="Email" />
+                            <img src="./mail.svg" alt="Email" />
                           <p>amasiarajaobelina.jw@gmail.com</p>
                            </a>
                       </div>
 
-                        <div className='flex-image'><img src="src/assets/image/linkedin.svg" alt="" /><p>Amasia Rajaobelina</p></div>
+                        <div className='flex-image'><img src="./linkedin.svg" alt="" /><p>Amasia Rajaobelina</p></div>
                         <div className="flex-image">
                 <a href="https://www.facebook.com/amasia.rajaobelina" target="_blank" rel="noopener noreferrer">
                     <img src="src/assets/image/facebook.svg" alt="Facebook" />
