@@ -29,7 +29,7 @@ const Design = () => {
     return (
         <div className="portfolio-container">
             <header className="header">
-                            <img className="logo" src="src/assets/image/logo1.png" alt="" />
+                            <img className="logo" src="./logo1.png" alt="" />
                             <nav className="nav-flex">
                             <Link to="/"> <span><a className="text-orange">Home</a></span>
                             </Link>

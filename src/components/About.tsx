@@ -7,7 +7,7 @@ const AboutMe = () => {
       <div className="about-me">
         <div className="left-panel">
           <Link to="/">
-            <img className="logo" src="src/assets/image/logo1.png" alt="" />
+            <img className="logo" src="./logo1.png" alt="" />
           </Link>
           <h1>AMASIA RAJAOBELINA</h1>
           <p>UI/UX Designer, développeur web & Junior SEO</p>

@@ -52,7 +52,7 @@ const Portfolio = () => {
                     <div className="button-container">
                         <Link to="/hire"><Button className="hire-button">Hire me!</Button></Link>
                         <Link to="/projects"><Button className="project-button">My Project</Button></Link>
-                        <a className="link" href="src/assets/image/CV_AMASIA.pdf" download="CV_Amasia.pdf">
+                        <a className="link" href="./CV_AMASIA.pdf" download="CV_Amasia.pdf">
                             <Button className="download">
                                 <img src="./download.svg" alt="" />
                                 Download My CV

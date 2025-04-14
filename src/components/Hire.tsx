@@ -8,7 +8,7 @@ const Hire = () => {
     const [email, setEmail] = useState('');
     const [message, setMessage] = useState('');
     const [error, setError] = useState('');
-    const images = ["src/assets/image/images.png", "src/assets/image/personne.png"];
+    const images = ["./images.png", "./personne.png"];
     const [currentImage, setCurrentImage] = useState(images[0]);
 
     useEffect(() => {
