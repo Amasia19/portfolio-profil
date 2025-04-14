@@ -54,14 +54,14 @@ const Portfolio = () => {
                         <Link to="/projects"><Button className="project-button">My Project</Button></Link>
                         <a className="link" href="src/assets/image/CV_AMASIA.pdf" download="CV_Amasia.pdf">
                             <Button className="download">
-                                <img src="src/assets/image/download.svg" alt="" />
+                                <img src="./download.svg" alt="" />
                                 Download My CV
                             </Button>
                         </a>
                     </div>
                 </div>
                 <div className="image-section" >
-                    <img src="src/assets/image/img.png" alt="Amasia SEO Portfolio" className="portfolio-image" />
+                    <img src="./img.png" alt="Amasia SEO Portfolio" className="portfolio-image" />
                     <div className="bg-deco" style={{ backgroundColor: bgColor }}></div>
                 </div>
             </div>
