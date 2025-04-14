@@ -87,8 +87,7 @@ const Hire = () => {
                         <div className='flex-image'><img src="./linkedin.svg" alt="" /><p>Amasia Rajaobelina</p></div>
                         <div className="flex-image">
                 <a href="https://www.facebook.com/amasia.rajaobelina" target="_blank" rel="noopener noreferrer">
-                    <img src=".
-                    /facebook.svg" alt="Facebook" />
+                    <img src="./facebook.svg" alt="Facebook" />
                    </a>
                <a href="https://www.facebook.com/amasia.rajaobelina" target="_blank" rel="noopener noreferrer">
                <p>Amasia Rajaobelina</p>
